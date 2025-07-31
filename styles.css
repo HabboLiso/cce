@@ -1,4 +1,4 @@
-/* Reset e Estilos Globais */
+
 * {
     margin: 0;
     padding: 0;
@@ -12,7 +12,7 @@ body {
     line-height: 1.6;
 }
 
-/* Container Principal */
+
 .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -22,7 +22,7 @@ body {
     flex-direction: column;
 }
 
-/* Cabeçalho */
+
 .header {
     text-align: center;
     margin-bottom: 40px;
@@ -33,7 +33,7 @@ body {
 .logo-container {
     height: 60px;
     margin-bottom: 20px;
-    /* Adicione seu logo aqui se necessário */
+    
 }
 
 .title {
@@ -58,7 +58,7 @@ body {
     border-radius: 2px;
 }
 
-/* Conteúdo Principal */
+
 .main-content {
     display: flex;
     flex-direction: column;
@@ -91,7 +91,7 @@ body {
     object-fit: cover;
 }
 
-/* Navegação */
+
 .navigation {
     width: 100%;
     text-align: right;
@@ -122,7 +122,7 @@ body {
     transform: translateY(0);
 }
 
-/* Responsividade */
+
 @media (max-width: 768px) {
     .title {
         font-size: 2rem;
