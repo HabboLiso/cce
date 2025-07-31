@@ -7,8 +7,8 @@
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #f5f7fa;
-    color: #333;
+    background-color: purple;
+    color: green;
     line-height: 1.6;
 }
 
@@ -38,7 +38,7 @@ body {
 
 .title {
     font-size: 2.5rem;
-    color: blue;
+    color: black;
     font-weight: 700;
     text-transform: uppercase;
     letter-spacing: 1px;
